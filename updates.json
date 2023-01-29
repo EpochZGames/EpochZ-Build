@@ -2,6 +2,11 @@
    "releases":[
       [
          "0.0.1",
+         "https://github.com/EpochZGames/EpochZ-Build/releases/download/0.0.2/TheEpochZ.jar",
+         "Mortar Correction"
+      ],
+      [
+         "0.0.1",
          "https://github.com/EpochZGames/EpochZ-Build/releases/download/0.0.1/TheEpochZ.jar",
          "Initial Version"
       ]
